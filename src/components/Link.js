@@ -6,7 +6,7 @@ const Link = ({ active, children, onClick }) => {
   }
 
   return (
-    <a href="#"
+    <a href="www.google.cl"
        onClick={e => {
          e.preventDefault()
          onClick()
